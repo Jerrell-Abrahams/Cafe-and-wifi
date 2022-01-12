@@ -1,0 +1,56 @@
+.front-image {
+  position: relative;
+  width: 100%;
+  height: auto;
+
+
+}
+
+.center {
+  position: absolute;
+  top: 60%;
+  left: 25%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #d9b56c;
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 100px;
+
+}
+
+.slogan {
+    text-align: center;
+    color: #d9b56c;
+    font-size: 40px;
+}
+
+h1 {
+    color: #54421f;
+    font-size: 50px;
+    text-align: center;
+    font-family: Courier;
+    font-weight: bold;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.listing-image {
+    border-radius: 20%;
+    width: 600px;
+    height: 400px;
+    margin: 30px 30px 30px 0;
+    float: left;
+}
+
+.container_text {
+    display: inline-block;
+    padding-top: 130px;
+    padding-left: 100px;
+    text-align: center;
+}
+
+i {
+    padding-bottom: 200px;
+}
+h3
